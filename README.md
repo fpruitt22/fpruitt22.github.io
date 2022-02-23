@@ -6,6 +6,7 @@ Nothing like getting your hands dirty. Below are a few projects I recently finis
 
 ### Github projects
 
+
 Here you'll find a collection of projects. 
 
 | [Electrical Engineering](https://www.getfjp.com) | Development/IOT | Renewable Energy | 
@@ -21,11 +22,11 @@ WHERE name like '%Frederick Pruitt%'
 AND net_annual_salary = '>=85k';
 
 ```
-[Link](url) and ![Image](src)
-![ms sql server](portfolio/images/sqldatabase.jpg)
+![Image](src)
+
+![GitHub logo](images/GitHub_Pic.jpg)
 
 >“Use your skills, your knowledge, your instincts to serve – to go change the world in the way that only you can.” – Robert F. Smith
 
 
 ### Thanks for stopping by... [bye](https://www.getfjp.com)✌🏾
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
