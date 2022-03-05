@@ -37,8 +37,8 @@ time.sleep(444)
 bot.quit()
 
 ```
-![Consultant and Engineer Frederick J. Pruitt](images/2020-09-17_11-59-19.png “Frederick Pruitt”)
-
+<img src=“images/2020-09-17-11-59-19.png”
+     
 >“Use your skills, your knowledge, your instincts to serve – to go change the world in the way that only you can.” – Robert F. Smith
 
 
