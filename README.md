@@ -5,8 +5,6 @@ Nice to meet you, I’m Frederick Pruitt. Tech Enthusiast with a background in s
 Nothing like getting your hands dirty. Below are a few projects I recently finished or currently working on. Over the next few years I'll be developing for fun and professionally. Check em out!!
 
 ### Github projects
-![GitHub logo](Users/frederickpruitt/Documents/css portfolio/images)
-
 
 Here you'll find a collection of projects. 
 
@@ -37,7 +35,6 @@ time.sleep(444)
 bot.quit()
 
 ```
-<img src=“images/2020-09-17-11-59-19.png”
      
 >“Use your skills, your knowledge, your instincts to serve – to go change the world in the way that only you can.” – Robert F. Smith
 
