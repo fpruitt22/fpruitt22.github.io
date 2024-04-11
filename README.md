@@ -39,4 +39,4 @@ bot.quit()
 >“Use your skills, your knowledge, your instincts to serve – to go change the world in the way that only you can.” – Robert F. Smith
 
 
-### Thanks for stopping by... [bye](https://www.getfjp.com)✌🏾
+### Thanks for stopping by... [bye](https://www.getfjp.com)😎✌🏾
